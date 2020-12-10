@@ -10,11 +10,11 @@
     "@testing-library/user-event": "^12.2.2",
     "faker": "^5.1.0",
     "lodash": "^4.17.20",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "^4.0.0"
   },
   "scripts": {
     "dev": "netlify dev",
@@ -44,5 +44,21 @@
   "devDependencies": {
     "fetch-mock": "^9.11.0",
     "netlify-cli": "^2.68.5"
-  }
+  },
+  "description": "[![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark) [![Netlify Status](https://api.netlify.com/api/v1/badges/e265340f-c6a6-4d7b-b24c-438b87c67876/deploy-status)](https://app.netlify.com/sites/battlestax-tutorial/deploys)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracking202/battlestax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracking202/battlestax/issues"
+  },
+  "homepage": "https://github.com/tracking202/battlestax#readme"
 }
